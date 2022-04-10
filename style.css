@@ -1,0 +1,59 @@
+.abc{
+	color: darkblue;
+	text-align: center;
+	background-color: antiquewhite;
+	border-radius: 4px;
+}
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="password"],
+input[type="date"],
+select,
+textarea{
+	background-color: lavender;
+	width: 400px;
+	padding: 8px;
+}
+body{
+	background-color: azure;
+	/*margin: 15px 30px;*/
+	font-family: sans-serif;
+	font-size: medium;
+	padding: 4px;
+	font-display: fallback;
+}
+input[type="submit"] {
+	background-color: darkcyan;
+	border: none;
+	color: lightgrey;
+	cursor: pointer;
+	width: 100%;
+	padding: 10px;
+	font-size: medium;
+	border-radius: 8px;
+	text-align: center;
+	align-self: center;
+}
+input[type="submit"]:hover {
+	background-color: salmon;
+
+}
+input[type="checkbox"] {
+	background-color: azure;
+	border: 10px;
+	border-radius: 10px;
+	box-shadow: magenta;
+}
+p {
+	background-color: whitesmoke;
+	width: 422px;
+}
+legend{
+	background-color: whitesmoke;
+	width: 415px;
+}
+img{
+	cursor: zoom-in;
+
+}
